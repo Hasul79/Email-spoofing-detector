@@ -11,11 +11,11 @@
 <h2> Откроется новое окно или вкладка с необработанным содержимым электронного письма, включая заголовки и тело. Нажмите «Загрузить оригинал» и загрузите файл .eml.</h2>
 <br/>
 
-![Screenshot 2024-03-04 180904](https://github.com/Hasul79/Email-spoofing-detector/assets/95657084/eab68b54-854f-451f-8980-bea8741bcd74)
+![Screenshot 2024-03-04 180746](https://github.com/Hasul79/Email-spoofing-detector/assets/95657084/aaa459e1-b2ed-4fe7-af55-a61daf8bb4c2)
 
  <br>
 
-![Screenshot 2024-03-04 180746](https://github.com/Hasul79/Email-spoofing-detector/assets/95657084/aaa459e1-b2ed-4fe7-af55-a61daf8bb4c2)
+![Screenshot 2024-03-04 180904](https://github.com/Hasul79/Email-spoofing-detector/assets/95657084/eab68b54-854f-451f-8980-bea8741bcd74)
 
 <br>
 
